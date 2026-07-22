@@ -7,7 +7,7 @@
 
 set -e
 
-REPO="https://raw.githubusercontent.com/rishonmathew/griffith-assessment-automarker/main/activity3/postfix"
+REPO="https://raw.githubusercontent.com/7015ICT/SOC-Activities-Project-Griffith/main/activity3/postfix"
 MAINCF_URL="$REPO/main.cf.template"
 VIRTUAL_URL="$REPO/virtual.template"
 
