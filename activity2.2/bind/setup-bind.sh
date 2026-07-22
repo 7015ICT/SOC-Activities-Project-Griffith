@@ -12,7 +12,7 @@
 
 set -euo pipefail
 
-REPO="https://raw.githubusercontent.com/rishonmathew/griffith-assessment-automarker/main/activity2/bind"
+REPO="https://raw.githubusercontent.com/7015ICT/SOC-Activities-Project-Griffith/main/activity2.2/bind"
 
 echo "============================================================"
 echo " Activity 2 - BIND9 Setup (Internal Gateway)"
