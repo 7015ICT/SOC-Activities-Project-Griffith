@@ -8,7 +8,7 @@
 
 set -e
 
-REPO="https://raw.githubusercontent.com/rishonmathew/griffith-assessment-automarker/main/activity3/dovecot"
+REPO="https://raw.githubusercontent.com/7015ICT/SOC-Activities-Project-Griffith/main/activity3/dovecot"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
